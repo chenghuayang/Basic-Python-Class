@@ -45,9 +45,6 @@ else:
     print('Nekokun is not a cat.')
 
 
-
-
-
 # For loop
 
 for i in range(5):
