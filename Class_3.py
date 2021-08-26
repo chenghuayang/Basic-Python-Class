@@ -98,6 +98,7 @@ new_letters = some_letters.replace('a', 'b')
 print(new_letters)
 
 
+# Practice
 # Practice: picnic time
 # Goal: print the sentence: "Penchan has 5 りんご. Nekokun has 2 おにぎり."
 name_1 = 'Penchan'
