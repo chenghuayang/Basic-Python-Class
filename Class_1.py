@@ -2,7 +2,7 @@
 box_1 = 10
 box_2 = 20
 
-#Boolean:  true or False
+# Boolean: true or False
 penchan_is_penguin = True
 nekokun_is_penguin = False
 
@@ -28,4 +28,4 @@ print(box_1 + 10 <= box_2)
 print(type(10))  # integer
 print(type(10.0))  # floating number
 print(10 == 10.0)
-print(type(penchan_is_penguin))  # Boolean`
+print(type(penchan_is_penguin))  # Boolean
