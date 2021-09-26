@@ -87,7 +87,7 @@ print(len(list_1))
 
 # Split
 story = "'Hey!' said the superman."
-words = story.split('s')
+words = story.split(' ')
 print(words)
 
 # Immutable: string
