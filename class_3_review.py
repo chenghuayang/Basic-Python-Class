@@ -1,3 +1,4 @@
+# Before class 3
 # assign
 box_1 = "Penchan"
 
